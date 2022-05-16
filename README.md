@@ -8,3 +8,4 @@
 <h3>Github Stats</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danfullm)](https://github.com/danfullm/github-readme-stats)
+![<Dan>](https://img.shields.io/badge/<DAN>-<Blue>?style=for-the-badge&logo=<Dan>&logoColor=<White>)
