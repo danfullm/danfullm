@@ -10,13 +10,17 @@ Welcome to my GitHub Profile! Feel free to look around and check out what I have
 <br/><br/>
 <h3>Github Stats</h3>
 <p>Here are some stats on what I program</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danfullm)](https://github.com/danfullm/github-readme-stats)
 
 <br/><br/>
 <h3>What I like to use</h3>
 <p>Here are the languages, frameworks, and tools that I like to use on my projects.</p>
+
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
