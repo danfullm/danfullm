@@ -5,7 +5,6 @@ Welcome to my GitHub Profile! Feel free to look around and check out what I have
 
 <h3>About Me</h3>
 👀 I’m interested in music and tech
-🌱 I’m currently learning React and Javascript
 📫 Reach me at danielfullmanmusic@gmail.com or <a href="http://www.danielfullmanmusic.com">danielfullmanmusic.com</a>
 <br/><br/>
 <h3>Github Stats</h3>
@@ -26,3 +25,6 @@ Welcome to my GitHub Profile! Feel free to look around and check out what I have
 ![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![image](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 ![image](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+
+<h4>A lot of my repositories are set as private. </h4>
+<p>If there is anything you want to see please let me know.</p>
