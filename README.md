@@ -30,4 +30,6 @@ Welcome to my GitHub Profile! Feel free to look around and check out what I have
 <h4>A lot of my repositories are set as private. </h4>
 <p>If there is anything you want to see please let me know.</p>
 
+<h3>Projects I'm working on</h3>
+
 
