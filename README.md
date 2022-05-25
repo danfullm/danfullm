@@ -35,7 +35,7 @@ Welcome to my GitHub Profile! Feel free to look around and check out what I have
 
 <h3>Projects I'm working on</h3>
 
-<h3>Currently Leaarning</h3>
+<h3>Currently Learning</h3>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
