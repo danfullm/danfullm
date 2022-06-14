@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m <b>@danfullm</b> - Daniel Fullman</h1>
 <h2>Software Engineer / Music Composer </h2>
-<h3>Welcome -</h3>
+<h3>Welcome Friends -</h3>
 Welcome to my GitHub Profile! Feel free to look around and check out what I have worked on. Send me a message if you would like to collaborate or learn more about me.
 
 <h3>About Me</h3>
