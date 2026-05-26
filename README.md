@@ -1,5 +1,5 @@
 <h1> 👋 Hi, I’m <b>@danfullm</b> - Daniel Fullman</h1>
-<h2>Software Engineer / Music Composer </h2>
+<h2>Product Leader</h2>
 <h3>Welcome Friends -</h3>
 Welcome to my GitHub Profile! Feel free to look around and check out what I have worked on. Send me a message if you would like to collaborate or learn more about me.
 
@@ -8,13 +8,7 @@ Welcome to my GitHub Profile! Feel free to look around and check out what I have
 📫 Reach me at danielfullmanmusic@gmail.com or <a href="http://www.danielfullmanmusic.com">danielfullmanmusic.com</a>
 <br/><br/>
 <p>Currently, I'm working on <a href="https://www.drillflo.com">DrillFlo Marching Band Drill Design Software</a>.</p>
-<h3>Github Stats</h3>
-<p>Here are some stats on what I program</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danfullm)](https://github.com/danfullm/github-readme-stats)
-<h3>What do I like?</h3>
-<p>My passion is where music and technology meet and how they can work together to create cool things.</p>
-<br/><br/>
 <h3>What I like to use</h3>
 <p>Here are the languages, frameworks, and tools that I like to use on my projects.</p>
 
@@ -30,11 +24,6 @@ Welcome to my GitHub Profile! Feel free to look around and check out what I have
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-<h4>A lot of my repositories are set as private. </h4>
-<p>If there is anything you want to see please let me know.</p>
-
-<h3>Projects I'm working on</h3>
 
 <h3>Currently Learning</h3>
 
